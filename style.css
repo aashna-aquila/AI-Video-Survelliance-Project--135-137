@@ -1,0 +1,35 @@
+body{
+background-size: cover;
+background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size:20px;
+}
+
+#start,#no_of_objects,#status{
+    font-size: 18px;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    color:white;
+    background-color: blue;
+    bottom: 0;
+    line-height: 3;
+}
+
+canvas{
+    margin-top: 180px;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+#note{
+    font-size: 13px;
+    color: black;
+}
